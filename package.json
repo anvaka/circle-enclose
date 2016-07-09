@@ -1,0 +1,21 @@
+{
+  "name": "circle-enclose",
+  "version": "1.0.0",
+  "description": "smallest circle problem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "smallest-circle",
+    "problem",
+    "mec",
+    "welzl"
+  ],
+  "author": "Andrei Kashcha",
+  "license": "BSD-3-Clause",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anvaka/circle-enclose"
+  }
+}

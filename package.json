@@ -4,7 +4,7 @@
   "description": "smallest circle problem",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "tap test/*.js"
   },
   "keywords": [
     "smallest-circle",
@@ -17,5 +17,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/anvaka/circle-enclose"
+  },
+  "devDependencies": {
+    "tap": "^6.1.1"
   }
 }

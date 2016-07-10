@@ -1,6 +1,8 @@
-# circle-enclose
+# circle-enclose [![Build Status](https://travis-ci.org/anvaka/circle-enclose.svg?branch=master)](https://travis-ci.org/anvaka/circle-enclose)
 
-Smallest circle problem. This code was extracted from [d3-hierarchy](https://github.com/d3/d3-hierarchy)
+[Smallest circle problem](https://en.wikipedia.org/wiki/Smallest-circle_problem).
+
+This code was extracted from [d3-hierarchy](https://github.com/d3/d3-hierarchy)
 ([licensed](https://github.com/d3/d3-hierarchy/blob/master/LICENSE) under BSD-3 by Mike Bostock).
 
 # usage
